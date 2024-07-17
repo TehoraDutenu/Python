@@ -9,4 +9,6 @@ main1.py            opérateurs de comparaison
                     conditions multiples
                     
 main2.py            boucles
+
+main3.py            fonctions
 """
