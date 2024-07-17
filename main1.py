@@ -16,9 +16,14 @@ Conditions multiples :
     not in (pas dans)
     not (non)
 
+Conditions :
+    if (si)
+    elif (sinon si)
+    else (sinon)
+
 """
 
-""" 
+"""
 calcul = 5 / 2
 calcul = int(calcul)
 calcul2 = 5 % 2
@@ -61,8 +66,6 @@ else:
 
 ###
 
-    """
-
 
 lettre_hasard = "a"
 
@@ -71,3 +74,32 @@ if lettre_hasard in "aeiouy":
 else:
     print("C'est une consonne")
 
+###
+
+jeu_charge = True # True = vrai (= 1), False = faux (= 0)
+
+if not jeu_charge:
+    print("Jeu non chargé")
+else:
+    print("Jeu chargé")
+
+###
+
+age = input("Quel âge as-tu ? ")
+age = int(age)
+
+if age > 0 and age <= 100:
+    print("L'âge est validé")
+else:
+    print("L'âge est invalide")
+
+###
+
+"""
+age = input("Quel âge as-tu ? ")
+age = int(age)
+
+if 0 < age <= 100:
+    print("L'âge est validé")
+else:
+    print("L'âge est invalide")
