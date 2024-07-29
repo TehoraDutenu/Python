@@ -19,5 +19,5 @@ main4.py            modularité
     player.py           exemple module
 
 
-
+main5.py            gestion d'erreurs
 """
