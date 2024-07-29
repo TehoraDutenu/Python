@@ -81,7 +81,6 @@ comparer_nombres(6, 5)
 
 ###
 
-"""
 
 def le_plus_grand(nb1, nb2):
     if nb1 > nb2:
@@ -92,3 +91,25 @@ def le_plus_grand(nb1, nb2):
 print(le_plus_grand(5, 6))
 
 ###
+
+# Fonctions lambda (anonyme)
+
+# lambda:print("Bonjour")
+
+# Équivalent
+# def:
+    # print("Bonjour")
+
+###
+
+ttc = lambda prixHT:prixHT + (prixHT * 20 / 100)
+
+print(ttc(24))
+
+###
+
+"""
+
+calculer = lambda nb1, nb2: nb1 + nb2
+
+print(calculer(5, 3))

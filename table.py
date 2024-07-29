@@ -10,5 +10,14 @@ main1.py            opérateurs de comparaison
                     
 main2.py            boucles
 
+
 main3.py            fonctions
+
+
+main4.py            modularité
+
+    player.py           exemple module
+
+
+
 """
