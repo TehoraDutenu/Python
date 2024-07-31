@@ -27,3 +27,6 @@ main5.py            gestion d'erreurs
 
 
 main6.txt           programation orientée objet (POO)
+
+
+main7.py            classes et attributs
