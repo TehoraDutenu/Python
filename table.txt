@@ -1,6 +1,8 @@
 ----------------
-Table matières
+Table matières 
 ----------------
+
+Cours Jason Champagne (YT)
 
 
 script.py           print
@@ -30,3 +32,9 @@ main6.txt           programation orientée objet (POO)
 
 
 main7.py            classes et attributs
+
+
+main8.py            méthodes
+
+
+main9.py            propriétés d'encapsulation
