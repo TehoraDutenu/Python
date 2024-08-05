@@ -41,3 +41,6 @@ main9.py            propriétés d'encapsulation
 
 
 main10.py           héritage
+
+
+main11.py           chaînes de caractères
