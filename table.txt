@@ -38,3 +38,6 @@ main8.py            méthodes
 
 
 main9.py            propriétés d'encapsulation
+
+
+main10.py           héritage
