@@ -44,3 +44,6 @@ main10.py           héritage
 
 
 main11.py           chaînes de caractères
+
+
+main12.py           listes
