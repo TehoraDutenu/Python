@@ -50,3 +50,6 @@ main12.py           listes
 
 
 main13.py           tuples
+
+
+main14.py           dictionnaires
